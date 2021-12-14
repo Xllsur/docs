@@ -1,6 +1,7 @@
 ---
 title: Git cheatsheet
-redirect_from:
+redirect_from:Phone
+
   - /articles/git-cheatsheet
   - /github/getting-started-with-github/git-cheatsheet
   - /github/getting-started-with-github/quickstart/git-cheatsheet
